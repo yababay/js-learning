@@ -1,0 +1,19 @@
+{
+  "name": "@yababay67/learning-js",
+  "version": "1.0.0",
+  "description": "Примеры JavaScript-кода для закрепления теоретического материала.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "learning"
+  ],
+  "author": "Михаил Беляков",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
