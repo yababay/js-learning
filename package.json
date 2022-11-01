@@ -1,18 +1,26 @@
 {
-  "name": "@yababay67/learning-js",
+  "name": "js-learning",
   "version": "1.0.0",
-  "description": "Примеры JavaScript-кода для закрепления теоретического материала.",
+  "description": "Упражения по JavaScript",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yababay/js-learning.git"
+  },
   "keywords": [
-    "js",
-    "javascript",
-    "learning"
+    "JS",
+    "learning",
+    "JavaScript"
   ],
-  "author": "Михаил Беляков",
+  "author": "Dmitriy Mazurov",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yababay/js-learning/issues"
+  },
+  "homepage": "https://github.com/yababay/js-learning#readme",
   "devDependencies": {
     "jest": "^29.2.2"
   }
